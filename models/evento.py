@@ -15,7 +15,7 @@
          self.id = id
          self.nombre = nombre 
          self.artista = artista
-         self.genero = granero
+         self.genero = genero
          self.id_ubicacion = id_ubicacion
          self.hora_inicio = hora_inicio
          self.hora_fin = hora_fin
